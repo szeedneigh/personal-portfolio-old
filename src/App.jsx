@@ -47,9 +47,9 @@ function App() {
                   <h3>Hello There</h3>
 
                   <h1/>
-                      I am Jonathan Doe. <br/>
-                      I am a graphic & UI/UX <br/>
-                      designer based in Somewhere.
+                      I am Sidney John. <br/>
+                      I am a Full Stack Developer <br/>
+                      based in your HEART.
                   <h1/>
 
                   <div className="home-content__buttons">
