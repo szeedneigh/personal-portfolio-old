@@ -68,9 +68,9 @@ function App() {
       <div classname="row home-content__main">
         <h3>Hello There</h3>
         <h1>
-          I am Jonathan Doe. <br />
-          I am a graphic &amp; UI/UX <br />
-          designer based in Somewhere.
+          I am Sidney John. <br />
+          I am a Full Stack Developer <br />
+          based in your HEART.
         </h1>
         <div classname="home-content__buttons">
           <a href="#works" classname="smoothscroll btn btn--stroke">
