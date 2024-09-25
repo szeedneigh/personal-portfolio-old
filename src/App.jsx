@@ -5,14 +5,12 @@ import './App.css'
 
 function App() {
 
-  const [count, setCount] = useState(0);
+    const [count, setCount] = useState(0)
 
     return (
 
-      <>
-
-      {/* header
-      ================================================== */}
+    <>
+        {/* header ================================================== */}
           <header className="s-header">
 
           <div className="header-logo">
