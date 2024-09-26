@@ -7,7 +7,7 @@ function App() {
 
         <>
 
-            {/* header ================================================== */}
+            {/* header ============================ */}
             <header className="s-header">
 
                 <div className="header-logo">
@@ -29,7 +29,7 @@ function App() {
             </header> 
             {/* end s-header */}
 
-            {/* home ================================================== */}
+            {/* home ============================ */}
             <section id="home" className="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width={3000} data-natural-height={2000} data-position-y="center">
 
                 <div className="overlay"></div>
@@ -64,8 +64,7 @@ function App() {
 
                     </div>
 
-                </div> 
-                {/* end home-content */}
+                </div> {/* end home-content */}
 
                 <ul className="home-social">
                     <li>
@@ -83,13 +82,11 @@ function App() {
                     <li>
                         <a href="#"><i className="im im-pinterest" aria-hidden="true"></i><span>Pinterest</span></a>
                     </li>
-                </ul> 
-                {/* end home-social */}
+                </ul> {/* end home-social */}
             </section>  
             {/* end s-section */}
 
-                {/* about
-                ================================================== */}
+                {/* about ============================ */}
                 <section id="about" className="s-about target-section">
 
                 <div className="row narrow section-intro has-bottom-sep">
@@ -168,9 +165,9 @@ function App() {
                             <div className="timeline__block">
                                 <div className="timeline__bullet"></div>
                                 <div className="timeline__header">
-                                    <p className="timeline__timeframe">July 2015 - Present</p>
-                                    <h3>Awesome Studio</h3>
-                                    <h5>Lead Designer</h5>
+                                    <p className="timeline__timeframe">Since Birth - Present</p>
+                                    <h3>Handsome Productions</h3>
+                                    <h5>CEO</h5>
                                 </div>
                                 <div className="timeline__desc">
                                     <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
@@ -180,9 +177,9 @@ function App() {
                             <div className="timeline__block">
                                 <div className="timeline__bullet"></div>
                                 <div className="timeline__header">
-                                    <p className="timeline__timeframe">July 2014 - June 2015</p>
-                                    <h3>Super Cool Agency</h3>
-                                    <h5>Front-end Developer</h5>
+                                    <p className="timeline__timeframe">September 2022 - Present</p>
+                                    <h3>Wise Mind Solutions</h3>
+                                    <h5>Fullstack Developer</h5>
                                 </div>
                                 <div className="timeline__desc">	
                                     <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
@@ -198,7 +195,7 @@ function App() {
                             <div className="timeline__block">
                                 <div className="timeline__bullet"></div>
                                 <div className="timeline__header">
-                                    <p className="timeline__timeframe">July 2012 - June 2014</p>
+                                    <p className="timeline__timeframe">September 2022 - Present</p>
                                     <h3>Great Design Studio</h3>
                                     <h5>Web Designer</h5>
                                 </div>
@@ -210,7 +207,7 @@ function App() {
                             <div className="timeline__block">
                                 <div className="timeline__bullet"></div>
                                 <div className="timeline__header">
-                                    <p className="timeline__timeframe">July 2011 - June 2012</p>
+                                    <p className="timeline__timeframe">September 2022 - Present</p>
                                     <h3>Epic Design Agency</h3>
                                     <h5>Web Designer</h5>
                                 </div>
@@ -227,8 +224,7 @@ function App() {
                 </section> {/* end about */}
 
 
-                {/* works
-                ================================================== */}
+                {/* works ============================= */}
                 <section id="works" className="s-works target-section">
 
                 <div className="row narrow section-intro has-bottom-sep">
@@ -494,12 +490,12 @@ function App() {
                     </div>
                 </div> {/* end masonry */}
 
-                </section> {/* end works */}
+                </section> 
+                {/* end works */}
 
 
 
-                {/* testimonials
-                ================================================== */}
+                {/* testimonials ============================ */}
                 <div className="s-testimonials">
 
                 <div className="overlay"></div>
@@ -548,11 +544,11 @@ function App() {
 
                 </div> {/* end testimonials */}
 
-                </div> {/* end s-testimonials */}
+                </div> 
+                {/* end s-testimonials */}
 
 
-                {/* blog
-                ================================================== */}
+                {/* blog ============================ */}
                 <section id="blog" className="s-blog target-section">
 
                 <div className="row narrow section-intro has-bottom-sep">
@@ -637,11 +633,11 @@ function App() {
                     </div> {/* end col-full */}
                 </div> {/* end blog-content */}
 
-                </section> {/* end s-blog */}
+                </section> 
+                {/* end s-blog */}
 
 
-                {/* s-cta
-                ================================================== */}
+                {/* s-cta ============================ */}
                 <section className="s-cta">
 
                 <div className="row narrow cta">
@@ -666,8 +662,7 @@ function App() {
                 </section>
 
 
-                {/* s-stats
-                ================================================== */}
+                {/* s-stats =========================== */}
                 <section id="stats" className="s-stats">
                 <div className="row block-1-4 block-tab-1-2 block-mob-full stats">
 
@@ -700,11 +695,11 @@ function App() {
                     </div>
 
                 </div>
-                </section> {/* end s-stats */}
+                </section> 
+                {/* end s-stats */}
 
 
-                {/* s-stats
-                ================================================== */}
+                {/* s-stats ================================ */}
                 <section id="contact" className="s-contact target-section">
 
                 <div className="overlay"></div>
@@ -782,10 +777,11 @@ function App() {
 
                 </div>
 
-            </section> {/* end s-contact */}
+            </section> 
+            {/* end s-contact */}
 
         </>
     );
-  }
+}
 
 export default App;
