@@ -43,8 +43,8 @@ function App() {
 
                         <h1>
                             I am Sidney John. <br/>
-                            I am a Full Stack Developer <br/>
-                            based in your HEART.
+                            I am the CEO<br/>
+                            of your HEART.
                         </h1>
 
                         <div className="home-content__buttons">
