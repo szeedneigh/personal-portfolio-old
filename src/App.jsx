@@ -173,15 +173,13 @@ function App() {
                     data-period={2000}
                     data-type='[ "Handsome.", "CEO.", "Philanthropist."]'
                   >
-                    <span className="wrap">Web Designer</span>
+                    <span className="wrap">CEO</span>
                   </span>
                 </h5>
                 <p className="text-muted para-desc mb-0">
-                  I&apos;m a professional web designer, My motive is to build a best
-                  web design with my all years of experience and efforts. and
-                  again during the 90s as desktop publishers bundled the text
-                  with their software.The purpose of lorem ipsum is to create a
-                  natural looking block of text.
+                My unmatched perspicacity coupled with sheer
+                indefatigability, makes me a feared opponent
+                in any realm of human endeavor.
                 </p>
                 <address className="content-info mt-3 pt-2">
                   <div className="row">
