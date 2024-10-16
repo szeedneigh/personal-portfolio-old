@@ -447,9 +447,9 @@ function App() {
                               className="rounded-pill avatar avatar-ex-small"
                               alt=""
                             />
-                            <h5 className="my-2">Behance</h5>
+                            <h5 className="my-2">Uncaged Melodies</h5>
                             <span className="text-primary mb-0">
-                              2019 - 2017
+                              2022 - Present
                             </span>
                           </div>
                         </div>
@@ -457,13 +457,14 @@ function App() {
                         <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                           <div className="event event-description-right float-left text-start">
                             <h6 className="title text-capitalize">
-                              Art Director
+                              Founder & CEO
                             </h6>
                             <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                              I'm a professional web designer, My motive is to
-                              build a best web design with my all years of
-                              experience and efforts again during the as desktop
-                              publishers bundled the text with their software.
+                            Founded in 2022, UNCAGED MELODIES empowers innovative artists 
+                            to express their unique sounds. Our mission is to celebrate originality
+                            and foster collaboration across genres. Through strategic marketing 
+                            and artist development, we amplify diverse voices, creating a vibrant 
+                            community that encourages authenticity and creativity in music.
                             </p>
                           </div>
                         </div>
