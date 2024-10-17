@@ -7,6 +7,7 @@ import Resume from './components/Resume.jsx';
 import Portfolio from './components/Portfolio.jsx';
 import Partners from './components/Partners.jsx';
 import Services from './components/Services.jsx';
+import Testimonials from './components/Testimonials.jsx';
 
 
 
@@ -22,159 +23,8 @@ function App() {
       <Portfolio />
       <Partners />
       <Services />
-      
-      {/* start testimony */}
-      <section className="section bg-light overflow-hidden" id="testimonial">
-        <div className="container">
-          <div className="row align-items-center justify-content-center">
-            <div className="col-lg-5 col-xl-6">
-              <div className="section-title text-start">
-                <span className="testi-icon text-primary">
-                  <i className="mdi mdi-format-quote-open" />
-                </span>
-                <h2 className="title">
-                  People<span className="text-primary"> Say Good</span> Things
-                  <br />
-                  Aren&apos;t They ?
-                </h2>
-              </div>
-            </div>
-            {/* end col */}
-            <div className="col-lg-7 col-xl-6 col-12">
-              <div className="tiny-single-item">
-                <div className="tiny-slide">
-                  <div className="testi m-1 bg-white p-md-5 p-4 position-relative rounded">
-                    <span className="quote">
-                      <img src="images/testimony/quot.png" alt="" />
-                    </span>
-                    <ul className="text-warning list-unstyled mb-2 ms-4">
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                    </ul>
-                    <p className="testi-para text-muted mb-4 fs-6">
-                      The passage experienced a surge in popularity during the
-                      1960s when Letraset used it on their dry-transfer sheets
-                      bundled the text with their software.
-                    </p>
-                    <div className="testi-content d-flex align-items-center">
-                      <img
-                        className="avatar avatar-small img-fluid rounded-pill"
-                        src="images/testimony/1.jpg"
-                        alt="testimony"
-                      />
-                      <div className="author-detail ms-3">
-                        <h5 className="title fs-6 mb-0">Courtney Sink</h5>
-                        <p className="text-muted mb-0">Designer</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                {/* end slide */}
-                <div className="tiny-slide">
-                  <div className="testi m-1 bg-white p-md-5 p-4 position-relative rounded">
-                    <span className="quote">
-                      <img src="images/testimony/quot.png" alt="" />
-                    </span>
-                    <ul className="text-warning list-unstyled mb-2 ms-4">
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                    </ul>
-                    <p className="testi-para text-muted mb-4 fs-6">
-                      The passage experienced a surge in popularity during the
-                      1960s when Letraset used it on their dry-transfer sheets
-                      bundled the text with their software.
-                    </p>
-                    <div className="testi-content d-flex align-items-center">
-                      <img
-                        className="avatar avatar-small img-fluid rounded-pill"
-                        src="images/testimony/2.jpg"
-                        alt="testimony"
-                      />
-                      <div className="author-detail ms-3">
-                        <h5 className="title fs-6 mb-0">Joay Gilbert</h5>
-                        <p className="text-muted mb-0">Designer</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                {/* end slide */}
-                <div className="tiny-slide">
-                  <div className="testi m-1 bg-white p-md-5 p-4 position-relative rounded">
-                    <span className="quote">
-                      <img src="images/testimony/quot.png" alt="" />
-                    </span>
-                    <ul className="text-warning list-unstyled mb-2 ms-4">
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                      <li className="list-inline-item me-0">
-                        <i className="mdi mdi-star fs-6" />
-                      </li>
-                    </ul>
-                    <p className="testi-para text-muted mb-4 fs-6">
-                      The passage experienced a surge in popularity during the
-                      1960s when Letraset used it on their dry-transfer sheets
-                      bundled the text with their software.
-                    </p>
-                    <div className="testi-content d-flex align-items-center">
-                      <img
-                        className="avatar avatar-small img-fluid rounded-pill"
-                        src="images/testimony/3.jpg"
-                        alt="testimony"
-                      />
-                      <div className="author-detail ms-3">
-                        <h5 className="title fs-6 mb-0">Steph Bennet</h5>
-                        <p className="text-muted mb-0">Developer</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                {/* end slide */}
-              </div>
-              {/* end tiny slider */}
-            </div>
-            {/* end col */}
-          </div>
-          {/* end row */}
-        </div>
-        {/* end container */}
-      </section>
-      {/* end section */}
+      <Testimonials /> 
+
       {/* Blog Start */}
       <section className="section overflow-hidden" id="blog">
         <div className="page-triangle triangle-light" />
