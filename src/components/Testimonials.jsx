@@ -14,7 +14,7 @@ const Testimonials = () => {
     },
     {
       quote:
-        "I cannot deny the fact that this guy has one of the best skills in the tech world. Truly his sheer indefatigability makes him the best in the world.",
+        "I cannot deny the fact that this guy has one of the best skills in the tech world. Truly his sheer indefatigability makes him the best.",
       author: "Bill Gates",
       position: "Microsoft CEO",
       image: "images/testimony/2.jpg",
