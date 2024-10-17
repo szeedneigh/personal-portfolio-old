@@ -28,7 +28,7 @@ function Hero() {
                   Sidney John
                 </h1>
                 <p className="text-white-50 para-desc">
-                  I'm a Philanthropist Good Looking Trillionare, My motive is to
+                  I&apos;m a Philanthropist Good Looking Trillionare, My motive is to
                   do good works with all my years of experience and efforts.
                 </p>
                 <a
