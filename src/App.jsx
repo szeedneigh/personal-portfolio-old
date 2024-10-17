@@ -5,6 +5,7 @@ import About from './components/About.jsx';
 import Skills from './components/Skills.jsx'
 import Resume from './components/Resume.jsx';
 import Portfolio from './components/Portfolio.jsx';
+import Partners from './components/Partners.jsx';
 
 
 
@@ -18,104 +19,10 @@ function App() {
       <Skills />
       <Resume />
       <Portfolio />
+      <Partners />
+      
 
       
-      {/* start partners */}
-      <section className="section bg-light overflow-hidden" id="partner">
-        <div className="container">
-          <div className="row align-items-center">
-            <div className="col-lg-6">
-              <div className="section-title text-center mb-4 pb-2">
-                <span className="sub-title text-uppercase">partner</span>
-                <h3 className="title">My Partners</h3>
-              </div>
-              {/* end col */}
-            </div>
-            {/* end col */}
-            <div className="col-lg-6">
-              <div className="row align-items-center">
-                <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
-                  <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
-                    <a href="javascript:void(0)">
-                      <img
-                        src="images/brand/envato.png"
-                        alt=""
-                        className="img-fluid"
-                      />
-                    </a>
-                  </div>
-                </div>
-                {/* end col */}
-                <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
-                  <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
-                    <a href="javascript:void(0)">
-                      <img
-                        src="images/brand/edunet.png"
-                        alt=""
-                        className="img-fluid"
-                      />
-                    </a>
-                  </div>
-                </div>
-                {/* end col */}
-                <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
-                  <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
-                    <a href="javascript:void(0)">
-                      <img
-                        src="images/brand/frenfy.png"
-                        alt=""
-                        className="img-fluid"
-                      />
-                    </a>
-                  </div>
-                </div>
-                {/* end col */}
-                <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
-                  <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
-                    <a href="javascript:void(0)">
-                      <img
-                        src="images/brand/behance.png"
-                        alt=""
-                        className="img-fluid"
-                      />
-                    </a>
-                  </div>
-                </div>
-                {/* end col */}
-                <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
-                  <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
-                    <a href="javascript:void(0)">
-                      <img
-                        src="images/brand/wetland.png"
-                        alt=""
-                        className="img-fluid"
-                      />
-                    </a>
-                  </div>
-                </div>
-                {/* end col */}
-                <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
-                  <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
-                    <a href="javascript:void(0)">
-                      <img
-                        src="images/brand/dribble.png"
-                        alt=""
-                        className="img-fluid"
-                      />
-                    </a>
-                  </div>
-                </div>
-                {/* end col */}
-              </div>
-              {/* end row */}
-            </div>
-            {/* end col */}
-          </div>
-          {/* end row */}
-        </div>
-        {/* end col */}
-      </section>
-      {/* end section */}
       {/* start services */}
       <section className="section overflow-hidden" id="services">
         <div className="container">
@@ -256,7 +163,7 @@ function App() {
                 <h2 className="title">
                   People<span className="text-primary"> Say Good</span> Things
                   <br />
-                  Aren't They ?
+                  Aren&apos;t They ?
                 </h2>
               </div>
             </div>
@@ -553,7 +460,7 @@ function App() {
                 <div className="content">
                   <div className="p-4">
                     <p className="text-muted">
-                      I'm also available for freelance work. Get in touch right
+                      I&apos;m also available for freelance work. Get in touch right
                       now.
                     </p>
                     <p className="text-muted mb-0">
@@ -582,7 +489,7 @@ function App() {
             <div className="col-lg-7 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0 mx-auto">
               <div className="contact-form border-0 p-4">
                 <h5 className="mb-4">
-                  Drop A Message ! Let's{" "}
+                  Drop A Message ! Let&apos;s{" "}
                   <span className="text-primary">Work</span>
                   Together
                 </h5>

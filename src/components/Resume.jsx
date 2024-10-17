@@ -176,7 +176,7 @@ function Resume() {
                               Frontend Developer
                             </h6>
                             <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                              I'm a professional web designer, My motive is to
+                              I&apos;m a professional web designer, My motive is to
                               build a best web design with my all years of
                               experience and efforts again during the as desktop
                               publishers bundled the text with their software.
@@ -287,7 +287,7 @@ function Resume() {
                               Graphics Designing
                             </h6>
                             <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                              I'm a professional web designer, My motive is to
+                              I&apos;m a professional web designer, My motive is to
                               build a best web design with my all years of
                               experience and efforts again during the as desktop
                               publishers bundled the text with their software.
@@ -307,7 +307,7 @@ function Resume() {
                               Academic Course
                             </h6>
                             <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                              I'm a professional web designer, My motive is to
+                              I&apos;m a professional web designer, My motive is to
                               build a best web design with my all years of
                               experience and efforts again during the as desktop
                               publishers bundled the text with their software.
