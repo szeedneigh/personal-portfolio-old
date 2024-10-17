@@ -33,24 +33,7 @@ function App() {
     
       
       
-      {/* Back to top */}
-      <a
-        href="#"
-        className="back-to-top rounded text-center"
-        id="back-to-top"
-        title="Top"
-      >
-        <i className="mdi mdi-chevron-up d-block icons"> </i>
-      </a>
-      {/* Back to top */}
-      <div className="cursor cursor-small" />
-      <canvas className="cursor cursor-canvas" />
-      {/* JAVASCRIPTS */}
-      {/* menu */}
-      {/* Icons */}
-      {/* portfolio */}
-      {/* slider */}
-      {/* app js */}
+      
     </>
   );
 }
