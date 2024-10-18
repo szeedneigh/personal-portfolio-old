@@ -25,9 +25,9 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "Pink Flower",
+      title: "Donation Website",
       category: "development",
-      image: "images/portfolio/1-4.jpg",
+      image: "images/portfolio/donationWeb.png",
     },
     {
       id: 5,
