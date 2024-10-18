@@ -1,3 +1,4 @@
+
 function Partners() {
   return (
     <section className="section bg-light overflow-hidden" id="partner">

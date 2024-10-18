@@ -1,3 +1,4 @@
+
 import { useState, useEffect } from "react";
 
 const Testimonials = () => {
@@ -34,8 +35,8 @@ const Testimonials = () => {
       setTimeout(() => {
         setCurrentIndex((prevIndex) =>
           prevIndex == testimonials.length - 1 ? 0 : prevIndex + 1
-      );
-      setIsTransitioning(false);
+        );
+        setIsTransitioning(false);
       }, 500);
     }, 3000);
 

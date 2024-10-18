@@ -1,3 +1,4 @@
+
 function Footer() {
   return (
     <footer className="footer footer-bar bg-black">

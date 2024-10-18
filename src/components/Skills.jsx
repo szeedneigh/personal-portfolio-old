@@ -10,8 +10,8 @@ function Skills() {
               <h3 className="title">Skills.</h3>
             </div>
             <p className="text-muted para-desc mb-4">
-              I&apos;m a professional web designer, My motive is to build a best web
-              design with my all years of experience and efforts.
+              I&apos;m a professional web designer, My motive is to build a best
+              web design with my all years of experience and efforts.
             </p>
             <div className="progress-box mt-4">
               <h6 className="title fw-normal text-muted">MERN</h6>

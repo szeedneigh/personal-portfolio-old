@@ -1,3 +1,4 @@
+
 function Contact() {
   return (
     <section
@@ -30,8 +31,8 @@ function Contact() {
               <div className="content">
                 <div className="p-4">
                   <p className="text-muted">
-                    I&apos;m also available for freelance work. Get in touch right
-                    now.
+                    I&apos;m also available for freelance work. Get in touch
+                    right now.
                   </p>
                   <p className="text-muted mb-0">
                     <span className="fw-bold me-2">Phone :</span>
