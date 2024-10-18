@@ -24,7 +24,6 @@ function Skills() {
                 </div>
               </div>
             </div>
-            {/*end process box*/}
             <div className="progress-box mt-4 pt-2">
               <h6 className="title fw-normal text-muted">ML &amp; AI</h6>
               <div className="progress">
@@ -36,7 +35,6 @@ function Skills() {
                 </div>
               </div>
             </div>
-            {/*end process box*/}
             <div className="progress-box mt-4 pt-2">
               <h6 className="title fw-normal text-muted">Web Design</h6>
               <div className="progress">
@@ -48,9 +46,7 @@ function Skills() {
                 </div>
               </div>
             </div>
-            {/*end process box*/}
           </div>
-          {/* end col */}
           <div className="col-lg-5 col-md-6 col-12 order-1 order-lg-1">
             <div className="skill">
               <span className="skill-circle" />
@@ -69,11 +65,8 @@ function Skills() {
               </p>
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
       </div>
-      {/* end container */}
     </section>
   );
 }

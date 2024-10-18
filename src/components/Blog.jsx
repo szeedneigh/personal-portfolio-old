@@ -11,9 +11,7 @@ function Blog() {
               <h3 className="title">Latest Posts</h3>
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/*end row*/}
         <div className="row">
           <div className="col-lg-4 col-md-6 mt-4">
             <div className="blog overflow-hidden position-relative bg-white rounded">
@@ -43,7 +41,6 @@ function Blog() {
               </div>
             </div>
           </div>
-          {/* end col */}
           <div className="col-lg-4 col-md-6 mt-4">
             <div className="blog overflow-hidden position-relative bg-white rounded">
               <div className="blog-image position-relative overflow-hidden">
@@ -72,7 +69,6 @@ function Blog() {
               </div>
             </div>
           </div>
-          {/* end col */}
           <div className="col-lg-4 col-md-6 mt-4">
             <div className="blog overflow-hidden position-relative bg-white rounded">
               <div className="blog-image position-relative overflow-hidden">
@@ -101,11 +97,8 @@ function Blog() {
               </div>
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
       </div>
-      {/* end container */}
     </section>
   );
 }

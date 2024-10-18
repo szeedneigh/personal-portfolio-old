@@ -15,9 +15,7 @@ function Contact() {
               <h3 className="title mb-4">Contact</h3>
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
         <div className="row">
           <div className="col-lg-5 col-md-8 col-12">
             <div className="contact overflow-hidden border-0 bg-white shadow rounded">
@@ -56,7 +54,6 @@ function Contact() {
               </div>
             </div>
           </div>
-          {/* end col */}
           <div className="col-lg-7 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0 mx-auto">
             <div className="contact-form border-0 p-4">
               <h5 className="mb-4">
@@ -95,7 +92,6 @@ function Contact() {
                       />
                     </div>
                   </div>
-                  {/*end col*/}
                   <div className="col-12">
                     <div className="mb-4 fs-6">
                       <input
@@ -106,7 +102,6 @@ function Contact() {
                       />
                     </div>
                   </div>
-                  {/*end col*/}
                   <div className="col-12">
                     <div className="mb-4 fs-6">
                       <textarea
@@ -131,19 +126,12 @@ function Contact() {
                       Send Here
                     </button>
                   </div>
-                  {/*end col*/}
                 </div>
-                {/*end row*/}
               </form>
-              {/* end form */}
             </div>
-            {/* end card */}
           </div>
-          {/* end col */}
         </div>
-        {/*end row*/}
       </div>
-      {/* end container */}
     </section>
   );
 }

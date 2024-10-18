@@ -11,7 +11,6 @@ function Footer() {
               </a>
             </div>
           </div>
-          {/* end col */}
           <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div className="text-center text-white-50">
               <p className="mb-0 fs-6">
@@ -28,7 +27,6 @@ function Footer() {
               </p>
             </div>
           </div>
-          {/* end col */}
           <div className="col-sm-3 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <ul className="list-unstyled foot-social-icon mb-0 text-lg-end">
               <li className="list-inline-item mb-0">
@@ -65,10 +63,8 @@ function Footer() {
               </li>
             </ul>
           </div>
-          {/* end col */}
         </div>
       </div>
-      {/* end container */}
     </footer>
   );
 }

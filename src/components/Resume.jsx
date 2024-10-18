@@ -10,9 +10,7 @@ function Resume() {
               <h3 className="title">My Resume</h3>
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
         <div className="row">
           <div className="col-12 mt-4 pt-2">
             <div className="text-center">
@@ -76,7 +74,6 @@ function Resume() {
                           </span>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="event event-description-right float-left text-start">
                           <h6 className="title text-capitalize">MANAGER</h6>
@@ -90,11 +87,8 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                   <div className="timeline-item mt-5 pt-4">
                     <div className="row">
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2 mt-4 mt-sm-0">
@@ -114,7 +108,6 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <img
@@ -128,11 +121,8 @@ function Resume() {
                           </span>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                   <div className="timeline-item mt-5 pt-4">
                     <div className="row">
                       <div className="col-lg-6 col-md-6 col-sm-6">
@@ -148,7 +138,6 @@ function Resume() {
                           </span>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="event event-description-right float-left text-start">
                           <h6 className="title text-capitalize">
@@ -165,11 +154,8 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                   <div className="timeline-item mt-5 pt-4">
                     <div className="row">
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2 mt-4 mt-sm-0">
@@ -185,7 +171,6 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <img
@@ -197,15 +182,10 @@ function Resume() {
                           <span className="text-primary mb-0">2017 - 2016</span>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                 </div>
-                {/*end timeline page*/}
               </div>
-              {/* end timeline */}
               <div
                 className="tab-pane fade"
                 id="pills-school"
@@ -222,7 +202,6 @@ function Resume() {
                           <span className="text-muted mb-0">2024</span>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="event event-description-right position-relative">
                           <h6 className="title text-capitalize">
@@ -234,11 +213,8 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                   <div className="timeline-item mt-5 pt-4">
                     <div className="row">
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2 mt-4 mt-sm-0">
@@ -254,7 +230,6 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <i className="mdi mdi-layers-triple-outline text-primary h3" />
@@ -262,11 +237,8 @@ function Resume() {
                           <span className="text-muted mb-0">2024</span>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                   <div className="timeline-item mt-5 pt-4">
                     <div className="row">
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
@@ -276,7 +248,6 @@ function Resume() {
                           <span className="text-muted mb-0">2014 - 2013</span>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="event event-description-right position-relative">
                           <h6 className="title text-capitalize">
@@ -290,11 +261,8 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                   <div className="timeline-item mt-5 pt-4">
                     <div className="row">
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2 mt-4 mt-sm-0">
@@ -310,7 +278,6 @@ function Resume() {
                           </p>
                         </div>
                       </div>
-                      {/*end col*/}
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <i className="mdi mdi-hexagon-multiple-outline text-primary h3" />
@@ -318,22 +285,14 @@ function Resume() {
                           <span className="text-muted mb-0">2013 - 2012</span>
                         </div>
                       </div>
-                      {/*end col*/}
                     </div>
-                    {/*end row*/}
                   </div>
-                  {/*end timeline item*/}
                 </div>
-                {/*end timeline page*/}
               </div>
-              {/* end timeline */}
             </div>
           </div>
-          {/*end col*/}
         </div>
-        {/*end row*/}
       </div>
-      {/* end container */}
     </section>
   );
 }

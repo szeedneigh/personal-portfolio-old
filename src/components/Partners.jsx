@@ -9,9 +9,7 @@ function Partners() {
               <span className="sub-title text-uppercase">partner</span>
               <h3 className="title">My Partners</h3>
             </div>
-            {/* end col */}
           </div>
-          {/* end col */}
           <div className="col-lg-6">
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
@@ -25,7 +23,6 @@ function Partners() {
                   </a>
                 </div>
               </div>
-              {/* end col */}
               <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
                 <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
                   <a href="javascript:void(0)">
@@ -37,7 +34,6 @@ function Partners() {
                   </a>
                 </div>
               </div>
-              {/* end col */}
               <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
                 <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
                   <a href="javascript:void(0)">
@@ -49,7 +45,6 @@ function Partners() {
                   </a>
                 </div>
               </div>
-              {/* end col */}
               <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
                 <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
                   <a href="javascript:void(0)">
@@ -61,7 +56,6 @@ function Partners() {
                   </a>
                 </div>
               </div>
-              {/* end col */}
               <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
                 <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
                   <a href="javascript:void(0)">
@@ -73,7 +67,6 @@ function Partners() {
                   </a>
                 </div>
               </div>
-              {/* end col */}
               <div className="col-lg-6 col-md-6 col-sm-12 mt-4">
                 <div className="client-card bg-white p-4 border-0 mx-auto text-center rounded">
                   <a href="javascript:void(0)">
@@ -85,15 +78,10 @@ function Partners() {
                   </a>
                 </div>
               </div>
-              {/* end col */}
             </div>
-            {/* end row */}
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
       </div>
-      {/* end col */}
     </section>
   );
 }

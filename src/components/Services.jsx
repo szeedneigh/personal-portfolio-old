@@ -10,9 +10,7 @@ function Services() {
               <h3 className="title">My Services</h3>
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
         <div className="row">
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
@@ -31,7 +29,6 @@ function Services() {
               </div>
             </div>
           </div>
-          {/*end col*/}
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
@@ -49,7 +46,6 @@ function Services() {
               </div>
             </div>
           </div>
-          {/*end col*/}
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
@@ -67,7 +63,6 @@ function Services() {
               </div>
             </div>
           </div>
-          {/*end col*/}
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
@@ -85,7 +80,6 @@ function Services() {
               </div>
             </div>
           </div>
-          {/*end col*/}
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
@@ -103,7 +97,6 @@ function Services() {
               </div>
             </div>
           </div>
-          {/*end col*/}
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
@@ -121,11 +114,8 @@ function Services() {
               </div>
             </div>
           </div>
-          {/*end col*/}
         </div>
-        {/* end row */}
       </div>
-      {/* end container */}
     </section>
   );
 }

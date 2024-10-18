@@ -63,9 +63,7 @@ function Navbar() {
             </li>
           </ul>
         </div>
-        {/*end collapse*/}
       </div>
-      {/*end container*/}
     </nav>
   );
 }

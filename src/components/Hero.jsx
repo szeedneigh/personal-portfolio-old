@@ -16,7 +16,6 @@ function Hero() {
           <li />
           <li />
         </ul>
-        {/* end shape */}
         <div className="row align-items-center">
           <div className="col-lg-6 col-md-6 col-12 mb-lg-5 pb-5">
             <div className="title-heading">
@@ -39,7 +38,6 @@ function Hero() {
               </a>
             </div>
           </div>
-          {/* end col */}
           <div className="col-lg-6 col-md-6 col-sm-12">
             <div className="layer two-wrapper" data-speed={1}>
               <img
@@ -49,11 +47,8 @@ function Hero() {
               />
             </div>
           </div>
-          {/* end col */}
         </div>
-        {/* end row */}
       </div>
-      {/* end container */}
     </section>
   );
 }
