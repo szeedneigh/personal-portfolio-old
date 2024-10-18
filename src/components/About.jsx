@@ -1,5 +1,5 @@
 
-import useTypewriter from './useTypewriter';
+import useTypewriter from './functions/useTypewriter';
 
 const About = () => {
   const typedText = useTypewriter(['Handsome.', 'CEO.', 'Philanthropist.'], 150, 100, 2000);
