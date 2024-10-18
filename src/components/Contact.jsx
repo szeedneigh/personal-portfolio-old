@@ -38,7 +38,7 @@ function Contact() {
                       href="javascript:void(0)"
                       className="contact-link text-muted"
                     >
-                      +1 849-657-9847
+                      +63-938-8221-785
                     </a>
                   </p>
                   <p className="text-muted mb-0">
@@ -47,7 +47,7 @@ function Contact() {
                       href="javascript:void(0)"
                       className="contact-link text-muted"
                     >
-                      contact@gmail.com
+                      sidneyjohn1704@gmail.com
                     </a>
                   </p>
                 </div>

@@ -7,21 +7,21 @@ const Portfolio = () => {
   const portfolioItems = [
     {
       id: 1,
-      title: "Fishy Work",
+      title: "Profile",
       category: "branding",
-      image: "images/portfolio/1-1.jpg",
+      image: "images/portfolio/Profile.PNG",
     },
     {
       id: 2,
-      title: "Wood Fire",
+      title: "Self Care",
       category: "branding",
-      image: "images/portfolio/1-2.jpg",
+      image: "images/portfolio/selfCare.PNG",
     },
     {
       id: 3,
-      title: "Blind Makeup",
+      title: "Login",
       category: "designing",
-      image: "images/portfolio/1-3.jpg",
+      image: "images/portfolio/Login.PNG",
     },
     {
       id: 4,
@@ -31,15 +31,15 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: "Cutting Skills",
+      title: "FB",
       category: "designing",
-      image: "images/portfolio/1-5.jpg",
+      image: "images/portfolio/styling_challenge.jpg",
     },
     {
       id: 6,
-      title: "Some Lights",
+      title: "Portfolio",
       category: "application",
-      image: "images/portfolio/1-6.jpg",
+      image: "images/portfolio/disMe.PNG",
     },
   ];
 
