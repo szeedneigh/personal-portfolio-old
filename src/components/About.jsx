@@ -1,5 +1,9 @@
 
-function About() {
+import useTypewriter from './useTypewriter';
+
+const About = () => {
+  const typedText = useTypewriter(['Handsome.', 'CEO.', 'Philanthropist.'], 150, 100, 2000);
+
   return (
     <section className="section overflow-hidden bg-light" id="about">
       <div className="container">
@@ -11,7 +15,7 @@ function About() {
             </div>
           </div>
         </div>
-
+        
         <div className="row position-relative align-items-center">
           <div className="col-lg-5 col-md-6 col-12 mt-4 pt-2">
             <div className="about-img">
@@ -22,67 +26,75 @@ function About() {
               />
             </div>
           </div>
-
+          
           <div className="col-lg-7 col-md-12 col-12 mt-5 mt-lg-0 pt-4 pt-lg-0">
             <div className="about-content">
               <h5 className="text-dark mb-3">
-                I&apos;m Sidney John a
-                <span
-                  className="typewrite text-primary"
-                  data-period={2000}
-                  data-type='[ "Handsome.", "CEO.", "Philanthropist."]'
-                >
-                  <span className="wrap"> CEO</span>
+                I&apos;m Sidney John a{' '}
+                <span className="text-primary">
+                  {typedText}<span className="blinking-cursor">|</span>
                 </span>
               </h5>
+
               <p className="text-muted para-desc mb-0">
-                My unmatched perspicacity coupled with sheer indefatigability,
-                makes me a feared opponent in any realm of human endeavor.
+                My unmatched perspicacity coupled with sheer
+                indefatigability, makes me a feared opponent
+                in any realm of human endeavor.
               </p>
-              <address className="content-info mt-3 pt-2">
-                <div className="row">
-                  <div className="col-lg-5 col-sm-12 col-md-6">
-                    <i className="mdi mdi-school text-primary me-2" />
-                    <span className="fw-bold me-2">Degree:</span>
-                    <p className="d-inline-block text-muted mb-2">35</p>
+
+              <div className="mt-4 pt-2">
+                <div className="d-flex align-items-center">
+                  <div className="about-icon me-3">
+                    <i className="mdi mdi-school text-primary"></i>
                   </div>
-                  <div className="col-lg-5 col-sm-12 col-md-6">
-                    <i className="mdi mdi-email text-primary me-2" />
-                    <span className="fw-bold me-2">Email:</span>
-                    <p className="d-inline-block text-muted mb-2">
-                      sidneyjohn1704@gmail.com
-                    </p>
+                  <div className="flex-1">
+                    <h6 className="mb-0">Degree:</h6>
+                    <p className="text-muted mb-0">Associate in Computer Technology & BS Information Systems</p>
                   </div>
                 </div>
 
-                <div className="row">
-                  <div className="col-lg-5 col-sm-12 col-md-6">
-                    <i className="mdi mdi-human-greeting-variant text-primary me-2" />
-                    <span className="fw-bold me-2">Age:</span>
-                    <p className="d-inline-block text-muted mb-2">21</p>
+                <div className="d-flex align-items-center mt-3">
+                  <div className="about-icon me-3">
+                    <i className="mdi mdi-email text-primary"></i>
                   </div>
-                  <div className="col-lg-6 col-sm-12 col-md-6">
-                    <i className="mdi mdi-map-marker text-primary me-2" />
-                    <span className="fw-bold me-2">Country:</span>
-                    <p className="d-inline-block text-muted mb-2">
-                      Pampanga, Philippines
-                    </p>
+                  <div className="flex-1">
+                    <h6 className="mb-0">Email:</h6>
+                    <p className="text-muted mb-0">sidneyjohn1704@gmail.com</p>
                   </div>
                 </div>
-              </address>
 
-              <a
-                href="javascript:void(0)"
-                className="btn btn-outline-dark btn-icon mt-3 pt-2"
-              >
-                <div className="btn-text">Download CV</div>
-              </a>
+                <div className="d-flex align-items-center mt-3">
+                  <div className="about-icon me-3">
+                    <i className="mdi mdi-human-greeting-variant text-primary"></i>
+                  </div>
+                  <div className="flex-1">
+                    <h6 className="mb-0">Age:</h6>
+                    <p className="text-muted mb-0">21</p>
+                  </div>
+                </div>
+
+                <div className="d-flex align-items-center mt-3">
+                  <div className="about-icon me-3">
+                    <i className="mdi mdi-map-marker text-primary"></i>
+                  </div>
+                  <div className="flex-1">
+                    <h6 className="mb-0">Country:</h6>
+                    <p className="text-muted mb-0">Pampanga, Philippines</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="mt-4">
+                <a href="javascript:void(0)" className="btn btn-outline-dark btn-icon">
+                  <div className="btn-text">Download CV</div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </section>
   );
-}
+};
 
 export default About;
