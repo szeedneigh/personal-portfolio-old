@@ -7,21 +7,21 @@ function Footer() {
           <div className="col-sm-3">
             <div className="text-sm-start">
               <a href="#" className="logo-footer">
-                <img src="images/logo-light.png" alt="" />
+                <img src="/images/logoLight.png" alt="" />
               </a>
             </div>
           </div>
           <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
             <div className="text-center text-white-50">
               <p className="mb-0 fs-6">
-                © Kirk. Design with <i className="mdi mdi-heart text-danger" />{" "}
-                by
+                © SZEEDNEIGH. Design with <i className="mdi mdi-heart text-danger" />{" "}
+                by 
                 <a
-                  href="https://shreethemes.in/"
+                  href=""
                   target="_blank"
                   className="text-reset"
                 >
-                  Shreethemes
+                  WISE MIND SOLUTIONS
                 </a>
                 .
               </p>

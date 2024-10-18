@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 const Navbar = () => {
   useEffect(() => {
-    // Smooth scrolling
+    
     const navLinks = document.querySelectorAll('#navbar-navlist a');
     navLinks.forEach(link => {
       link.addEventListener('click', function(e) {
@@ -16,7 +16,6 @@ const Navbar = () => {
           });
         }
         
-        // Close mobile menu after clicking
         const navbarCollapse = document.getElementById('navbarSupportedContent');
         if (navbarCollapse.classList.contains('show')) {
           navbarCollapse.classList.remove('show');
@@ -24,7 +23,6 @@ const Navbar = () => {
       });
     });
 
-    // Navbar scroll behavior
     const handleScroll = () => {
       const navbar = document.getElementById('navbar');
       if (window.scrollY > 50) {

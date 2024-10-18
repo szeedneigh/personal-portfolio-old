@@ -161,13 +161,13 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2 mt-4 mt-sm-0">
                         <div className="event event-description-left float-left text-end">
                           <h6 className="title text-capitalize">
-                            Frontend Developer
+                            Distinguished Engineer
                           </h6>
                           <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                            I&apos;m a professional web designer, My motive is
-                            to build a best web design with my all years of
-                            experience and efforts again during the as desktop
-                            publishers bundled the text with their software.
+                            Building future. My mission is to build the best 
+                            software that can change the future of my fellowmen.
+                            This serves as my side mission for being a Philanthropist
+                            Good Looking Trillionare.
                           </p>
                         </div>
                       </div>
@@ -178,8 +178,8 @@ function Resume() {
                             className="rounded-pill avatar avatar-ex-small"
                             alt=""
                           />
-                          <h5 className="my-2">Envato</h5>
-                          <span className="text-primary mb-0">2017 - 2016</span>
+                          <h5 className="my-2">MS Corporation</h5>
+                          <span className="text-primary mb-0">2012 - Present</span>
                         </div>
                       </div>
                     </div>
@@ -244,20 +244,18 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="duration date-label-left position-relative text-end">
                           <i className="mdi mdi-book-outline text-primary h3" />
-                          <h5 className="my-2">University </h5>
-                          <span className="text-muted mb-0">2014 - 2013</span>
+                          <h5 className="my-2">Harvard University</h5>
+                          <span className="text-muted mb-0">2024</span>
                         </div>
                       </div>
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="event event-description-right position-relative">
                           <h6 className="title text-capitalize">
-                            Graphics Designing
+                            Computer Science
                           </h6>
                           <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                            I&apos;m a professional web designer, My motive is
-                            to build a best web design with my all years of
-                            experience and efforts again during the as desktop
-                            publishers bundled the text with their software.
+                            Studied the Harvard CS50 computer science course 
+                            to have a deeper understanding of the computer world
                           </p>
                         </div>
                       </div>
@@ -268,21 +266,19 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2 mt-4 mt-sm-0">
                         <div className="event event-description-left float-left text-end">
                           <h6 className="title text-capitalize">
-                            Academic Course
+                            Data Science and Artificial Intelligence
                           </h6>
                           <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                            I&apos;m a professional web designer, My motive is
-                            to build a best web design with my all years of
-                            experience and efforts again during the as desktop
-                            publishers bundled the text with their software.
+                            Data Science and Artificial Intelligence is getting popular
+                            in this generation, that&apos;s why I participate in this competition
                           </p>
                         </div>
                       </div>
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <i className="mdi mdi-hexagon-multiple-outline text-primary h3" />
-                          <h5 className="my-2">Institute Of Graphics</h5>
-                          <span className="text-muted mb-0">2013 - 2012</span>
+                          <h5 className="my-2">RAITE</h5>
+                          <span className="text-muted mb-0">2024</span>
                         </div>
                       </div>
                     </div>
