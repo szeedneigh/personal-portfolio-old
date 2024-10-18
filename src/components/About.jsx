@@ -4,6 +4,15 @@ import useTypewriter from './useTypewriter';
 const About = () => {
   const typedText = useTypewriter(['Handsome.', 'CEO.', 'Philanthropist.'], 150, 100, 2000);
 
+    const handleDownloadCV = () => {
+      const link = document.createElement('a');
+      link.href = '/images/resume/My resume.pdf';
+      link.download = 'My resume.pdf';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    };
+
   return (
     <section className="section overflow-hidden bg-light" id="about">
       <div className="container">
@@ -85,9 +94,12 @@ const About = () => {
               </div>
 
               <div className="mt-4">
-                <a href="javascript:void(0)" className="btn btn-outline-dark btn-icon">
+                <button 
+                  onClick={handleDownloadCV} 
+                  className="btn btn-outline-dark btn-icon"
+                >
                   <div className="btn-text">Download CV</div>
-                </a>
+                </button>
               </div>
             </div>
           </div>
