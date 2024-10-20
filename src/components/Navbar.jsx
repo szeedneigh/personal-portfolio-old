@@ -44,8 +44,8 @@ const Navbar = () => {
       <div className="container">
         <a className="navbar-brand" href="#">
           <span className="logo-light-mode">
-            <img src="/images/logoDark.png" className="l-dark" alt="" />
-            <img src="/images/logoLight.png" className="l-light" alt="" />
+            <img src="./images/logoDark.png" className="l-dark" alt="" />
+            <img src="./images/logoLight.png" className="l-light" alt="" />
           </span>
           <img src="images/logo-light.png" className="logo-dark-mode" alt="" />
         </a>
