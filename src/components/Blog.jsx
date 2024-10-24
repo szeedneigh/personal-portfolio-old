@@ -26,12 +26,11 @@ function Blog() {
               <div className="content p-4">
                 <h5 className="mb-3">
                   <a href="javascript:void(0)" className="blog-title text-dark">
-                    Compare the best front hand designer
+                  Why Zero-Trust Security Matters Now
                   </a>
                 </h5>
                 <p className="text-muted mb-0">
-                  The purpose of lorem ipsum is to create a natural looking
-                  block of text.
+                Zero-trust security is replacing traditional security models in our hybrid work world. By verifying every access...
                 </p>
                 <div className="read-more mt-3">
                   <a href="javascript:void(0)" className="text-muted blog-link">
@@ -54,12 +53,11 @@ function Blog() {
               <div className="content p-4">
                 <h5 className="mb-3">
                   <a href="javascript:void(0)" className="blog-title text-dark">
-                    Why market is all about social work
+                   AI&apos;s Impact on Modern Coding
                   </a>
                 </h5>
                 <p className="text-muted mb-0">
-                  The purpose of lorem ipsum is to create a natural looking
-                  block of text.
+                AI coding assistants are changing how we develop software. With tools like GitHub Copilot, developers are seeing 40% productivity boosts...
                 </p>
                 <div className="read-more mt-3">
                   <a href="javascript:void(0)" className="text-muted blog-link">
@@ -82,12 +80,11 @@ function Blog() {
               <div className="content p-4">
                 <h5 className="mb-3">
                   <a href="javascript:void(0)" className="blog-title text-dark">
-                    Know more ideas about latest design
+                    Master Your Cloud Costs
                   </a>
                 </h5>
                 <p className="text-muted mb-0">
-                  The purpose of lorem ipsum is to create a natural looking
-                  block of text.
+                Cloud spending spiraling? Smart resource management and automated scaling can cut costs by 30%. Discover the key strategies...
                 </p>
                 <div className="read-more mt-3">
                   <a href="javascript:void(0)" className="text-muted blog-link">

@@ -5,7 +5,7 @@ import About from "./components/About.jsx";
 import Skills from "./components/Skills.jsx";
 import Resume from "./components/Resume.jsx";
 import Portfolio from "./components/Portfolio.jsx";
-import Partners from "./components/Partners.jsx";
+// import Partners from "./components/Partners.jsx";
 import Services from "./components/Services.jsx";
 import Testimonials from "./components/Testimonials.jsx";
 import Blog from "./components/Blog.jsx";
@@ -21,7 +21,7 @@ function App() {
       <Skills />
       <Resume />
       <Portfolio />
-      <Partners />
+      {/* <Partners /> */}
       <Services />
       <Testimonials />
       <Blog />

@@ -1917,11 +1917,11 @@ progress {
   height: 1.5em;
 }
 .form-control::-moz-placeholder {
-  color: #6c757d;
+  color: #d0e1f0;
   opacity: 1;
 }
 .form-control::placeholder {
-  color: #6c757d;
+  color: #d0e1f0;
   opacity: 1;
 }
 .form-control:disabled {
@@ -7841,7 +7841,7 @@ fieldset:disabled .btn {
 }
 .bg-white {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(63, 63, 63) !important;
 }
 .bg-body {
   --bs-bg-opacity: 1;

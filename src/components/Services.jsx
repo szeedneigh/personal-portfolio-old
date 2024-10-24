@@ -15,102 +15,90 @@ function Services() {
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
-                <i data-feather="layers" className="fea icon-md" />
+                <i className="fas fa-paint-brush icon-md" />
               </div>
               <div className="content mt-4">
-                <h5 className="title">Graphics Design</h5>
+                <h5 className="title">Data Analytics & AI</h5>
                 <p className="text-muted mt-3 mb-0">
-                  The purpose of lorem ipsum is to create a natural looking
-                  block of textwhen looking at its layout.
+                Transform raw data into actionable insights through machine learning and 
+                AI solutions. Specializing in predictive analytics and automation to
+                help your business grow smarter.
                 </p>
-              </div>
-              <div className="big-icon">
-                <i data-feather="layers" className="fea icons" />
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
-                <i data-feather="box" className="fea icon-md" />
+                <i className="fas fa-laptop-code icon-md" />
               </div>
               <div className="content mt-4">
                 <h5 className="title">Web Design</h5>
                 <p className="text-muted mt-3 mb-0">
-                  It is a long established fact that a reader will be distracted
-                  by the when looking at its layout.
+                Create stunning, user-centric websites that convert. Combining modern 
+                aesthetics with intuitive user experience to build your perfect digital
+                storefront that works across all devices.
                 </p>
-              </div>
-              <div className="big-icon">
-                <i data-feather="box" className="fea icons" />
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
-                <i data-feather="search" className="fea icon-md" />
+                <i className="fas fa-search icon-md" />
               </div>
               <div className="content mt-4">
-                <h5 className="title">App Research</h5>
+                <h5 className="title">Cybersecurity Solutions</h5>
                 <p className="text-muted mt-3 mb-0">
-                  It is a long established fact that a reader will be distracted
-                  by the when looking at its layout.
+                Protect your digital assets with advanced threat detection
+                and data security. Offering comprehensive protection through
+                proactive monitoring, encryption, and security training.
                 </p>
-              </div>
-              <div className="big-icon">
-                <i data-feather="search" className="fea icons" />
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
-                <i data-feather="paperclip" className="fea icon-md" />
+                <i className="fas fa-pen-nib icon-md" />
               </div>
               <div className="content mt-4">
-                <h5 className="title">Branding</h5>
+                <h5 className="title">Digital Transformation</h5>
                 <p className="text-muted mt-3 mb-0">
-                  It is a long established fact that a reader will be distracted
-                  by the when looking at its layout.
+                Modernize your business for the digital world age. 
+                Streamline business operations through automation, digital
+                workflows, and enhanced customer experiences.
                 </p>
-              </div>
-              <div className="big-icon">
-                <i data-feather="paperclip" className="fea icons" />
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
-                <i data-feather="layout" className="fea icon-md" />
+                <i className="fas fa-mobile-alt icon-md" />
               </div>
               <div className="content mt-4">
-                <h5 className="title">Responsive Web</h5>
+                <h5 className="title">DevOps & Software Development</h5>
                 <p className="text-muted mt-3 mb-0">
-                  It is a long established fact that a reader will be distracted
-                  by the when looking at its layout.
+                Build custom software that solves real problems. 
+                From mobile apps to enterprise solutions, delivered 
+                through agile development for rapid results.
                 </p>
-              </div>
-              <div className="big-icon">
-                <i data-feather="layout" className="fea icons" />
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 col-12 mt-4 pt-2">
             <div className="service-wrapper rounded position-relative text-center border border-footer p-4 pt-5 pb-5">
               <div className="icon text-primary">
-                <i data-feather="navigation" className="fea icon-md" />
+                <i className="fas fa-chart-line icon-md" />
               </div>
               <div className="content mt-4">
-                <h5 className="title">Trendy Work</h5>
+                <h5 className="title">IT Infrastructure Management</h5>
                 <p className="text-muted mt-3 mb-0">
-                  It is a long established fact that a reader will be distracted
-                  by the when looking at its layout.
+                Boost your online visibility and climb search rankings. 
+                Data-driven SEO strategies that increase organic traffic 
+                and improve your digital presence where it matters most.
                 </p>
-              </div>
-              <div className="big-icon">
-                <i data-feather="navigation" className="fea icons" />
               </div>
             </div>
           </div>
@@ -118,6 +106,6 @@ function Services() {
       </div>
     </section>
   );
-}
+};
 
 export default Services;
