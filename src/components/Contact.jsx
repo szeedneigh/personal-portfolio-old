@@ -4,7 +4,7 @@ function Contact() {
     <section
       className="section overflow-hidden"
       id="contact"
-      style={{ background: "url(images/bg/map-img.png) center" }}
+      style={{ background: "url(./assets/images/bg/map-img.png) center" }}
     >
       <div className="bg-overlay bg-light" style={{ opacity: "0.7" }} />
       <div className="container">
@@ -21,7 +21,7 @@ function Contact() {
             <div className="contact overflow-hidden border-0 bg-white shadow rounded">
               <div className="position-relative overflow-hidden mx-4 mt-4 rounded">
                 <img
-                  src="images/contact/1.jpg"
+                  src="./assets/images/contact/1.jpg"
                   className="img-fluid rounded"
                   alt=""
                 />

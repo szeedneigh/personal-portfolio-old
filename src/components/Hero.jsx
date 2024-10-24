@@ -41,7 +41,7 @@ function Hero() {
           <div className="col-lg-6 col-md-6 col-sm-12">
             <div className="layer two-wrapper" data-speed={1}>
               <img
-                src="images/home/landing_pic.png"
+                src="./assets/images/home/landing_pic.png"
                 className="img-fluid mx-auto"
                 alt=""
               />

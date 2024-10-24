@@ -16,10 +16,10 @@ function Blog() {
           <div className="col-lg-4 col-md-6 mt-4">
             <div className="blog overflow-hidden position-relative bg-white rounded">
               <div className="blog-image position-relative overflow-hidden">
-                <img src="images/blog/1.jpg" className="img-fluid" alt="" />
+                <img src="./assets/images/blog/1.jpg" className="img-fluid" alt="" />
                 <div className="blog-tag">
                   <div className="badge bg-primary text-white rounded">
-                    16th May 2022
+                    17th May 2024
                   </div>
                 </div>
               </div>
@@ -43,10 +43,10 @@ function Blog() {
           <div className="col-lg-4 col-md-6 mt-4">
             <div className="blog overflow-hidden position-relative bg-white rounded">
               <div className="blog-image position-relative overflow-hidden">
-                <img src="images/blog/2.jpg" className="img-fluid" alt="" />
+                <img src="./assets/images/blog/2.jpg" className="img-fluid" alt="" />
                 <div className="blog-tag">
                   <div className="badge bg-primary text-white rounded">
-                    6th June 2022
+                    6th September 2024
                   </div>
                 </div>
               </div>
@@ -70,10 +70,10 @@ function Blog() {
           <div className="col-lg-4 col-md-6 mt-4">
             <div className="blog overflow-hidden position-relative bg-white rounded">
               <div className="blog-image position-relative overflow-hidden">
-                <img src="images/blog/3.jpg" className="img-fluid" alt="" />
+                <img src="./assets/images/blog/3.jpg" className="img-fluid" alt="" />
                 <div className="blog-tag">
                   <div className="badge bg-primary text-white rounded">
-                    2th July 2022
+                    8th October 2024
                   </div>
                 </div>
               </div>

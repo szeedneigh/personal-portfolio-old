@@ -11,21 +11,21 @@ const Testimonials = () => {
         "The moment I trust this guy in shaping the future of my company, I realized that I'm not mistaken to be his client.",
       author: "Mark Zuckerberg",
       position: "Meta CEO",
-      image: "images/testimony/MarkZuck.jpg",
+      image: "./assets/images/testimony/MarkZuck.jpg",
     },
     {
       quote:
         "I cannot deny the fact that this guy has one of the best skills in the tech world. Truly his sheer indefatigability makes him the best.",
       author: "Bill Gates",
       position: "Microsoft CEO",
-      image: "images/testimony/BillGates.jpg",
+      image: "./assets/images/testimony/BillGates.jpg",
     },
     {
       quote:
         "This guy holds the future of our world, he is revolutionizing the tech world with his unmatched perspicacity.",
       author: "Elon Musk",
       position: "SpaceX & Tesla CEO",
-      image: "images/testimony/elonMusk.jpg",
+      image: "./assets/images/testimony/elonMusk.jpg",
     },
   ];
 

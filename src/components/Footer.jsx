@@ -7,7 +7,7 @@ function Footer() {
           <div className="col-sm-3">
             <div className="text-sm-start">
               <a href="#" className="logo-footer">
-                <img src="public/images/logoLight.png" alt="logo" />
+                <img src="./assets/images/logoLight.png" alt="logo" />
               </a>
             </div>
           </div>

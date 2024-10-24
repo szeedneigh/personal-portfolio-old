@@ -9,37 +9,37 @@ const Portfolio = () => {
       id: 1,
       title: "Profile",
       category: "branding",
-      image: "images/portfolio/Profile.PNG",
+      image: "./assets/images/portfolio/Profile.PNG",
     },
     {
       id: 2,
       title: "Self Care",
       category: "branding",
-      image: "images/portfolio/selfCare.PNG",
+      image: "./assets/images/portfolio/selfCare.PNG",
     },
     {
       id: 3,
       title: "Login",
       category: "designing",
-      image: "images/portfolio/Login.PNG",
+      image: "./assets/images/portfolio/Login.PNG",
     },
     {
       id: 4,
       title: "Donation Website",
       category: "development",
-      image: "images/portfolio/donationWeb.png",
+      image: "./assets/images/portfolio/donationWeb.png",
     },
     {
       id: 5,
       title: "FB",
       category: "designing",
-      image: "images/portfolio/styling_challenge.jpg",
+      image: "./assets/images/portfolio/styling_challenge.jpg",
     },
     {
       id: 6,
       title: "Portfolio",
       category: "application",
-      image: "images/portfolio/disMe.PNG",
+      image: "./assets/images/portfolio/disMe.PNG",
     },
   ];
 
