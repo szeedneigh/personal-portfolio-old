@@ -112,7 +112,7 @@ try {
 /*             03) Tiny Slider            */
 //=========================================//
 
-if (document.getElementsBylassName("tiny-single-item").length > 0) {
+if (document.getElementsByClassName("tiny-single-item").length > 0) {
   var slider = tns({
     container: ".tiny-single-item",
     items: 1,
