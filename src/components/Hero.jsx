@@ -31,7 +31,7 @@ function Hero() {
                 to do good works with all my years of experience and efforts.
               </p>
               <a
-                href="javascript:void(0)"
+                href="https://mail.google.com/"
                 className="btn btn-primary btn-icon mt-3 pt-2"
               >
                 <div className="btn-text">Contact Me</div>

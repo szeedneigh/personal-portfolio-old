@@ -6,7 +6,7 @@ const About = () => {
 
     const handleDownloadCV = () => {
       const link = document.createElement('a');
-      link.href = '/images/resume/My resume.pdf';
+      link.href = './assets/images/resume/My resume.pdf';
       link.download = 'My resume.pdf';
       document.body.appendChild(link);
       link.click();
@@ -46,9 +46,10 @@ const About = () => {
               </h5>
 
               <p className="text-muted para-desc mb-0">
-                My unmatched perspicacity coupled with sheer
-                indefatigability, makes me a feared opponent
-                in any realm of human endeavor.
+              A passionate jack-of-all-trades with an insatiable curiosity for learning and adapting. 
+              I thrive on mastering diverse challenges and pride myself on finding innovative solutions 
+              by drawing from a broad range of skills and experiences. My versatility is my strength, 
+              allowing me to tackle any project with confidence and creativity.
               </p>
 
               <div className="mt-4 pt-2">
@@ -77,8 +78,8 @@ const About = () => {
                     <i className="mdi mdi-human-greeting-variant text-primary"></i>
                   </div>
                   <div className="flex-1">
-                    <h6 className="mb-0">Age:</h6>
-                    <p className="text-muted mb-0">21</p>
+                    <h6 className="mb-0">Age:</h6>  
+                    <p className="text-muted mb-0">Depending on the Perspective</p>
                   </div>
                 </div>
 

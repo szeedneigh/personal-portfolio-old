@@ -10,22 +10,22 @@ function Skills() {
               <h3 className="title">Skills.</h3>
             </div>
             <p className="text-muted para-desc mb-4">
-              I&apos;m a professional web designer, My motive is to build a best
-              web design with my all years of experience and efforts.
+              My UNMATCHED PERSPICACITY coupled with sheer indefagatigability <br />
+              makes me a feared opponent in any realm of human endeavor.
             </p>
             <div className="progress-box mt-4">
-              <h6 className="title fw-normal text-muted">MERN</h6>
+              <h6 className="title fw-normal text-muted">JACK-OF-ALL-TRADES</h6>
               <div className="progress">
                 <div
                   className="progress-bar progress-animate position-relative rounded-pill"
-                  style={{ width: "40%" }}
+                  style={{ width: "100%" }}
                 >
-                  <div className="progress-value d-block text-muted">40%</div>
+                  <div className="progress-value d-block text-muted">99.99%</div>
                 </div>
               </div>
             </div>
             <div className="progress-box mt-4 pt-2">
-              <h6 className="title fw-normal text-muted">ML &amp; AI</h6>
+              <h6 className="title fw-normal text-muted">Machine Learning &amp; AI</h6>
               <div className="progress">
                 <div
                   className="progress-bar progress-animate position-relative rounded-pill"
@@ -36,13 +36,13 @@ function Skills() {
               </div>
             </div>
             <div className="progress-box mt-4 pt-2">
-              <h6 className="title fw-normal text-muted">Web Development</h6>
+              <h6 className="title fw-normal text-muted">Full Stack Development</h6>
               <div className="progress">
                 <div
                   className="progress-bar progress-animate position-relative rounded-pill"
-                  style={{ width: "80%" }}
+                  style={{ width: "44%" }}
                 >
-                  <div className="progress-value d-block text-muted">80%</div>
+                  <div className="progress-value d-block text-muted">44%</div>
                 </div>
               </div>
             </div>
@@ -52,7 +52,7 @@ function Skills() {
               <span className="skill-circle" />
               <div
                 className="skill-number text-parallax"
-                style={{ backgroundImage: "url(images/bg/program.jpg)" }}
+                style={{ backgroundImage: "url(./assets/images/bg/heartcode.avif)" }}
               >
                 <span>3.</span>
               </div>

@@ -64,7 +64,7 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6">
                         <div className="duration date-label-left position-relative text-md-end">
                           <img
-                            src="images/brand/shree-logo.png"
+                            src="./assets/images/brand/WMSS.png"
                             className="rounded-pill avatar avatar-ex-small"
                             alt=""
                           />
@@ -76,14 +76,14 @@ function Resume() {
                       </div>
                       <div className="col-lg-6 col-md-6 col-sm-6 mt-4 mt-sm-0">
                         <div className="event event-description-right float-left text-start">
-                          <h6 className="title text-capitalize">MANAGER</h6>
+                          <h6 className="title text-capitalize">FOUNDER & CEO</h6>
                           <p className="timeline-subtitle mt-3 mb-0 text-muted">
-                            As a Manager at Wise Mind Solutions in the
-                            Philippines from September 2022 to this day, I
-                            successfully led a team of professionals in
-                            providing innovative solutions for clients. I
-                            oversaw daily operations, managed budgets, and
-                            maintained strong relationships with stakeholders.
+                          As the FOUNDER & CEO of Wise Mind Solutions, I was responsible for
+                          leading and managing all aspects of the company&apos;s operations in the
+                          Philippines. With a strong vision and strategic mindset, I successfully
+                          built and grew the business from the ground up, establishing it as a
+                          trusted and reputable provider of innovative solutions in the mental
+                          health industry
                           </p>
                         </div>
                       </div>
@@ -111,7 +111,7 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <img
-                            src="images/brand/twitter-logo.png"
+                            src="./assets/images/brand/BNM&CO.png"
                             className="rounded-pill avatar avatar-ex-small"
                             alt=""
                           />
@@ -128,7 +128,7 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6">
                         <div className="duration date-label-left position-relative text-md-end">
                           <img
-                            src="images/brand/behance-logo.png"
+                            src="./assets/images/brand/UncagedMelodies.png"
                             className="rounded-pill avatar avatar-ex-small"
                             alt=""
                           />
@@ -174,7 +174,7 @@ function Resume() {
                       <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
                         <div className="duration duration-right position-relative">
                           <img
-                            src="images/brand/envato-logo.png"
+                            src="./assets/images/brand/MSCorp.png"
                             className="rounded-pill avatar avatar-ex-small"
                             alt=""
                           />
